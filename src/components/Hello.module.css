@@ -1,0 +1,23 @@
+.myimg{
+    height: 250px;
+    width: 250px;
+    margin-left: 600px;
+}
+
+
+.myh1{
+    color: maroon;
+    text-align: center;
+    font-family:cursive;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 70px;
+    }
+
+    
+    .myhr{
+        height:2px;
+        border-width:0;
+        color:maroon;
+        background-color:maroon
+    }
